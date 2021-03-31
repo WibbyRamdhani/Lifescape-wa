@@ -1,0 +1,25 @@
+{
+  "name": "wa-akhdani",
+  "version": "1.0.0",
+  "description": "bot whatsapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "wiby",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.9.13",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^9.1.0",
+    "mime-types": "^2.1.29",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "rupiah-format": "^1.0.0",
+    "sharp": "^0.27.2"
+  }
+}
